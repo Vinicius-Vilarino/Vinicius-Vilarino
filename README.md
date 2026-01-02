@@ -8,12 +8,22 @@ Olá, me chamo Vinícius de Melo Vilarino, tenho 19 anos e sou de São Paulo, ca
 ---
 ### 🖥️ Linguagens
 
- <img 
-    aling="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
+<img 
+  align="left"
+  alt="C"
+  title="C"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+
     
